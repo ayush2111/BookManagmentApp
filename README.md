@@ -29,12 +29,3 @@ To run the project locally, follow these steps:
 4. Configure the database settings.
 5. Run the application with `npm start`.
 
-## Contributing
-
-Contributions are welcome! If you find a bug or have a feature request, please open an issue. Pull requests are also encouraged.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Happy reading with Bookify! 📚✨
