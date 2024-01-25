@@ -1,6 +1,5 @@
 # Bookify - A Book Store App (Jan 2024)
 
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 ## Overview
 
