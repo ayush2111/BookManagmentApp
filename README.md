@@ -1,4 +1,4 @@
-# Bookify - A Book Store App (Jan 2024)
+# Bookify - A Book Store App
 
 
 ## Overview
@@ -7,7 +7,7 @@ Bookify is a web application developed for an online bookstore. The application 
 
 ## Tech Stack
 
-- Frontend: React.js
+- Frontend: React.js, Swiper.js
 - Backend: Express.js, Node.js
 - Database: MongoDB
 
