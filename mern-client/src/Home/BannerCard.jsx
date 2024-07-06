@@ -30,5 +30,4 @@ const BannerCard = () => {
     </div>
   )
 }
-
 export default BannerCard
