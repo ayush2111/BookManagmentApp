@@ -46,20 +46,20 @@
    git clone https://github.com/ayush2111/BookManagmentApp.git
    ```
 
-3. **Install dependencies:**
+2. **Install dependencies:**
     ```bash
     npm install
     ```
-5. **Set up environment variables:**
+3. **Set up environment variables:**
    ```bash
    Create a .env file in root directory and add your environment variables
    ```
-7. **Run the server:**
+4. **Run the server:**
    ```bash
    cd mern-server
    nodemon index.js
    ```
-9. **Run the frontend:**
+5. **Run the frontend:**
    ```bash
    cd mern-client
    npm run dev
