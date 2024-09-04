@@ -1,30 +1,61 @@
-# Bookify - A Book Store App
+# 📚 Bookify - A Book Store App
 
-
-## Overview
-
-Bookify is a web application developed for an online bookstore. The application provides users with the ability to browse, search, and purchase books. Key features include user registration and authentication, catalogue browsing, detailed book information, and a shopping cart for a seamless checkout experience. The application is designed to be fully responsive, ensuring a consistent and enjoyable user experience across various devices.
-
-## Tech Stack
-
-- Frontend: React.js, Swiper.js
-- Backend: Express.js, Node.js
-- Database: MongoDB
 
 ## Features
 
-- **User Registration and Authentication:** Secure user accounts with registration and authentication functionality.
-- **Catalogue Browsing:** Explore a diverse range of books with an intuitive catalogue browsing interface.
-- **Detailed Book Information:** Access comprehensive details about each book, including author, genre, and price.
-- **Shopping Cart:** Add books to a shopping cart for a convenient and efficient checkout process.
+- **Comprehensive Catalog Management:** 
+  - Customers can easily browse and search through an extensive catalog of books.
+  - Vendors have tools to list, manage, and update their book inventory.
 
-## Getting Started
+- **Authentication System:**
+  - Integrated with JWT and Firebase to provide secure authentication.
+  - Supports multiple sign-in options including Google, Facebook, and email/password.
+ 
+- **Responsive Design:**
+  - The platform is fully responsive, delivering a seamless experience on desktops, tablets, and mobile devices.
 
-To run the project locally, follow these steps:
 
-1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Install dependencies with `npm install`.
-4. Configure the database settings.
-5. Run the application with `npm start`.
+## Tech Stack
+
+- **Frontend:** 
+  - Vite.js
+  - Tailwind CSS
+
+- **Backend:** 
+  - Node.js
+  - Express.js
+
+- **Database:** 
+  - MongoDB (for storing user and book data)
+
+- **Authentication:** 
+  - JWT (JSON Web Token)
+  - Firebase (for OAuth integrations)
+
+## Installation & Running Locally
+
+### Prerequisites
+
+- Node.js 
+- MongoDB
+
+### Steps to Run
+
+1. **Clone the repository:**
+   git clone https://github.com/ayush2111/BookManagmentApp.git
+   cd oBookManagmentApp
+
+2. **Install dependencies:**
+    npm install
+3. **Set up environment variables:**
+   Create a .env file in the root directory and add your environment variables:
+4. **Run the server:**
+   cd mern-server
+   nodemon index.js
+6. **Run the frontend:**
+   cd mern-client
+   npm run dev
+
+### Screenshots
+
 
