@@ -43,7 +43,7 @@
 
 1. **Clone the repository:**
    git clone https://github.com/ayush2111/BookManagmentApp.git
-   cd oBookManagmentApp
+   cd BookManagmentApp
 
 2. **Install dependencies:**
     npm install
