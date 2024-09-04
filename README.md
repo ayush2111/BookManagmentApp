@@ -68,10 +68,10 @@
 ### Screenshots
 
 
-|![Screenshot 2024-09-01 155735.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155735.png)|
-|![Bookify/Screenshot 2024-09-01 155453.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155453.png)|
-|![Bookify/Screenshot 2024-09-01 155553.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155553.png)|
-|![Bookify/Screenshot 2024-09-01 155620.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155620.png)|
-|![Bookify/Screenshot 2024-09-01 155703.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155703.png)|
-|![Bookify/Screenshot 2024-09-01 155717.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155717.png)|
+![Screenshot 2024-09-01 155735.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155735.png)
+![Bookify/Screenshot 2024-09-01 155453.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155453.png)
+![Bookify/Screenshot 2024-09-01 155553.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155553.png)
+![Bookify/Screenshot 2024-09-01 155620.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155620.png)
+![Bookify/Screenshot 2024-09-01 155703.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155703.png)
+![Bookify/Screenshot 2024-09-01 155717.png](https://github.com/ayush2111/BookManagmentApp/blob/main/Bookify/Screenshot%202024-09-01%20155717.png)
 
